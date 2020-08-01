@@ -65,5 +65,7 @@ Here you can find my repositories that were crafted with joy and passion,on
 
 -----------------------------------------------------
 # About Me
-- 🌱 I’m currently working on sharping my System Design and Algorithms skills.
+- 🔭 I’m currently working on sharping my System Design and Algorithms skills.
 - 👯 We can become friends over Leetcode and solve exciting coding problems together.
+- 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/akash-tyagi-08/) or mail me at `tyagiaakash001@gmail.com`.
+- ⚡ When I am not coding I prefer spending my time at basketball court or playing Table Tennis.

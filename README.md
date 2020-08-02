@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 # Welcome to my code-space !!! 👋
 
 ![](https://komarev.com/ghpvc/?username=Akashtyagi08&style=flat-square) 
-[![Linked In](https://img.shields.io/badge/LinkedIn-AkashTyagi-<BLUE>.svg)](https://www.linkedin.com/in/akash-tyagi-08/)
-![Python](https://img.shields.io/badge/Python-⚡-BLUE.svg)
-![Java](https://img.shields.io/badge/Java-⚡-<BLUE>.svg)
-![Hadoop](https://img.shields.io/badge/Hadoop-⚡-BLUE.svg)
+[![Linked In](https://img.shields.io/badge/LinkedIn-AkashTyagi-GREEN.svg)](https://www.linkedin.com/in/akash-tyagi-08/)
+[![Leetcode](https://img.shields.io/badge/Leetcode-cpwithtyagi-BLUE>.svg)](https://leetcode.com/cpwithtyagi)
+![Python](https://img.shields.io/badge/Python-⚡-GREEN.svg)
+![Java](https://img.shields.io/badge/Java-⚡-BLUE.svg)
+![Hadoop](https://img.shields.io/badge/Hadoop-⚡-GREEN.svg)
 
 ------------------------------------------------------
 
@@ -66,6 +67,6 @@ Here you can find my repositories that were crafted with joy and passion,on
 -----------------------------------------------------
 # About Me
 - 🔭 I’m currently working on sharping my System Design and Algorithms skills.
-- 👯 We can become friends over Leetcode and solve exciting coding problems together.
+- 👯 We can become friends over [Leetcode](https://leetcode.com/cpwithtyagi) and solve exciting coding problems together.
 - 📫 You can reach me at [LinkedIn](https://www.linkedin.com/in/akash-tyagi-08/) or mail me at `tyagiaakash001@gmail.com`.
 - ⚡ When I am not coding I prefer spending my time at basketball court or playing Table Tennis.

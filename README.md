@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=Akashtyagi08&style=flat-square) 
 [![Linked In](https://img.shields.io/badge/LinkedIn-AkashTyagi-GREEN.svg)](https://www.linkedin.com/in/akash-tyagi-08/)
-[![Leetcode](https://img.shields.io/badge/Leetcode-cpwithtyagi-BLUE>.svg)](https://leetcode.com/cpwithtyagi)
+[![Leetcode](https://img.shields.io/badge/Leetcode-cpwithtyagi-BLUE.svg)](https://leetcode.com/cpwithtyagi)
 ![Python](https://img.shields.io/badge/Python-⚡-GREEN.svg)
 ![Java](https://img.shields.io/badge/Java-⚡-BLUE.svg)
 ![Hadoop](https://img.shields.io/badge/Hadoop-⚡-GREEN.svg)

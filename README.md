@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## My Product: [trackmf.in](https://trackmf.in/)
 
-Portfolio: [akashtyagi08.github.io](https://akashtyagi08.github.io/)
+Portfolio: [akashtyagi.github.io](https://akashtyagi.github.io/)
 ------------------------------------------------------
 
 Here you can find my repositories that were crafted with joy and passion,on 
